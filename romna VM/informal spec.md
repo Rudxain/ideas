@@ -23,7 +23,7 @@ Different levels of addressing granularity: Word, Byte, and bit.
 
 ## Other instructions
 
-Bitwise: NOT, OR, AND, XOR, NOR, NAND, XNOR, SHIFTL, SHIFTR, ROTL, ROTR, REV (reverse), TEND (transcode endianess), LBS (leftmost bit set), RBS (rightmost bit set), BCLMUL (carry-less multiplication), BBLDIV (borrow-less division).
+Bitwise: NOT, OR, AND, XOR, NOR, NAND, XNOR, SHIFTL, SHIFTR, ROTL, ROTR, REV (reverse), TEND (transcode endianess), LBS (leftmost bit set), RBS (rightmost bit set), BCLMUL (arbitrary-base carry-less multiplication), BBLDIV (arbitrary-base borrow-less division).
 
 bounce back, bounce forward, and bi-bounce. These change the direction of execution, they make the virtual CPU iterate over instructions in reverse, or reset to iterating downward (forward).
 
