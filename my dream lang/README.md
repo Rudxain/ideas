@@ -8,7 +8,7 @@ Rust but with:
 - subset strings that must match a regex at compile-time
 - named args
 - type inference (only direct) allowed for globals
-- no default int type, so i32 must be explicitly written
+- no default int type, so `i32` must be explicitly written
 - binary ints don't exist, use explicit bounds, like `0 < n < 9`
 - no curly braces, use indentation like Py
 - `>>^` and `^<<` ops for circular (rotation) shift
