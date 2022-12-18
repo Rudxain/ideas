@@ -5,3 +5,5 @@ Default audio could be silent (Only listed/supported apps play audio, any other 
 Supports "./" paths, which are relative to pack root. Pack root dir is defined by the manifest (like Cargo.toml and package.json). Support for parent-dirs ("..") and general path-traversal will be added later
 
 Name is derived from "app + motif", and the prefix reminds me of ඞamogus
+
+main.flo is the /Llamalab/Automate flow draft implementation
