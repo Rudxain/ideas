@@ -1,4 +1,4 @@
-# spec
+# informal spec
 
 Rust but with:
 
