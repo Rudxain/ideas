@@ -1,0 +1,10 @@
+{
+"name": "2s", "short_name": "0x100",
+"description": "2048 with tiles 0 & 1, and only binary numerals",
+"categories": ["games"],
+"start_url": "https://Rudxain.github.io/2s",
+"lang": "en",
+"icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}],
+"background_color": "#000", "theme_color": "#000",
+"display": "standalone"
+}
