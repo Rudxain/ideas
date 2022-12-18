@@ -1,5 +1,3 @@
-[Helpful link](https://reddit.com/r/AskProgramming/comments/sxhejz/what_langs_are_recommended_for_coding_a_vm)
-
 # Name
 
 **romna**, a permutation (anagram) of "Norma", "Ramon", "Maron", and "Roman".
@@ -24,6 +22,7 @@ no `jump`, only copy to IP.
 `move` **ACTUALLY moves** (clears source register after copy)
 
 ## Other instructions
+
 Bitwise: NOT, OR, AND, XOR, NOR, NAND, XNOR, SHIFTL, SHIFTR, ROTL, ROTR, REV (reverse), TEND (transcode endianess), LBS (leftmost bit set), RBS (rightmost bit set), BCLMUL (carry-less multiplication), BBLDIV (borrow-less division).
 
 Bounce back, bounce forward, and bi-bounce. These change the direction of execution, they make the virtual CPU iterate over instructions in reverse, or reset to iterating downward (forward).
@@ -31,3 +30,7 @@ Bounce back, bounce forward, and bi-bounce. These change the direction of execut
 Integer and float Math: ADD, SUB, MUL, MUL3 (triplicate), DIV, DIV3 (n/3), GCD, LCM, SQRT, CBRT, POW, LOG, GCLMUL (any base), GBLDIV (any base), AKMN (efficient 64bit Ackermann function).
 
 Modular arithmetic, clamped arithmetic, and arbitrary precision.
+
+## etc
+
+[Helpful link](https://reddit.com/r/AskProgramming/comments/sxhejz/what_langs_are_recommended_for_coding_a_vm)
