@@ -22,7 +22,7 @@ Different levels of addressing granularity: Word, Byte, and bit.
 - `move` **ACTUALLY moves** (clears source register after copy)
 - modular (wrapping) arithmetic, clamped (saturating) arithmetic, and arbitrary precision.
 
-## Other instructions
+## Instructions
 
 Bitwise: NOT, OR, AND, XOR, NOR, NAND, XNOR, SHIFTL, SHIFTR, ROTL, ROTR, REV (reverse), TEND (transcode endianess), LBS (leftmost bit set), RBS (rightmost bit set), BCLMUL (binary carry-less multiplication), BBLDIV (binary borrow-less division).
 
