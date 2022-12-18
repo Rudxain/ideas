@@ -1,0 +1,48 @@
+<!doctype HTML>
+<HTML lang=en>
+	<head prefix='og: https://ogp.me/ns#'>
+		<meta charset=UTF-8>
+		<!--link rel=canonical href=https://Rudxain.github.io/XOR-hasher-->
+		<link rel=manifest href=m.webmanifest>
+
+		<title>XOR hasher</title>
+		<meta name=description content=''>
+		<meta name=keywords content='xor, hash, digest, checksum, code, hexadecimal, file, data, binary'>
+
+		<meta property=og:title content='XOR hasher'>
+		<meta property=og:site_name content='Rudxain GitHub Page'>
+		<meta property=og:type content=website>
+		<meta property=og:url content=https://Rudxain.github.io/XOR-hasher>
+		<meta property=og:description content=''>
+
+		<meta name=viewport content='width=device-width, initial-scale=1'>
+		<meta name=color-scheme content='light dark'>
+
+		<style>
+			html {font-family: monospace}
+
+			.center {
+				position : absolute;
+				top:50%; left:50%;
+				transform : translate(-50%,-50%)
+			}
+			#hd {top:25%}
+			#label {top:45%}
+			#submit {top:55%}
+			#progress {top:66%}
+		</style>
+
+		<script src=lib.js></script>
+	</head>
+	<body>
+		<h1 id=hd class=center>XOR hasher</h1>
+
+		<label for=inp id=label class=center>Pick files to hash</label>
+		<input id=inp class=center type=file multiple>
+		<button id=submit class=center>Submit</button>
+
+		<progress id=progress class=center value=0></progress>
+
+		<script src=main.js defer></script>
+	</body>
+</HTML>
