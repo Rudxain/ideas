@@ -26,6 +26,8 @@ Different levels of addressing granularity: Word, Byte, and bit.
 
 Bitwise: NOT, OR, AND, XOR, NOR, NAND, XNOR, SHIFTL, SHIFTR, ROTL, ROTR, REV (reverse), TEND (transcode endianess), LBS (leftmost bit set), RBS (rightmost bit set), BCLMUL (binary carry-less multiplication), BBLDIV (binary borrow-less division).
 
+zfor, xzfor, for, revfor. Inspired by [myself](https://github.com/Rudxain/zigzagfor)
+
 bounce back, bounce forward, and bi-bounce. These change the direction of execution, they make the virtual CPU iterate over instructions in reverse, or reset to iterating downward (forward).
 
 Integer and Float Math: ADD, SUB, MUL, MUL3 (triplicate), DIV, DIV3 (n/3), GCD, LCM, SQRT, CBRT, POW, LOG, GCLMUL (any base), GBLDIV (any base), AKMN (efficient 64bit Ackermann function).
