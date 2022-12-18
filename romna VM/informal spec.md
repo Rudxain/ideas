@@ -20,6 +20,7 @@ Different levels of addressing granularity: Word, Byte, and bit.
 - no `jump`, only copy to IP
 - `copy` acts like `MOV`
 - `move` **ACTUALLY moves** (clears source register after copy)
+- modular (wrapping) arithmetic, clamped (saturating) arithmetic, and arbitrary precision.
 
 ## Other instructions
 
@@ -28,8 +29,6 @@ Bitwise: NOT, OR, AND, XOR, NOR, NAND, XNOR, SHIFTL, SHIFTR, ROTL, ROTR, REV (re
 bounce back, bounce forward, and bi-bounce. These change the direction of execution, they make the virtual CPU iterate over instructions in reverse, or reset to iterating downward (forward).
 
 Integer and Float Math: ADD, SUB, MUL, MUL3 (triplicate), DIV, DIV3 (n/3), GCD, LCM, SQRT, CBRT, POW, LOG, GCLMUL (any base), GBLDIV (any base), AKMN (efficient 64bit Ackermann function).
-
-Modular arithmetic, clamped arithmetic, and arbitrary precision.
 
 ## etc
 
