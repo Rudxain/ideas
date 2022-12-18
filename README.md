@@ -13,3 +13,9 @@ If I die unexpectedly, I want people to (at least) see my works-in-progress, and
 
 Even if I don't die, I want people to give me feedback about these projects.
 I want to know which are worth the time, which should be renamed, which are crap, or how can I improve them, so please be honest.
+
+## LICENSE
+
+The [license file at the root directory](LICENSE) applies to all sub-repos, **EXCEPT** the sub-repos that include a license.
+
+In other words, licenses at inner directories override licenses at outer directories
