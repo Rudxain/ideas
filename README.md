@@ -1,4 +1,4 @@
-# ideas
+# 💡ideas
 
 This hosts all the stuff that I'm too lazy/noob to begin.
 
