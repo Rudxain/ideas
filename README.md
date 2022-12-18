@@ -1,6 +1,6 @@
 # ideas
 
-This will host all the stuff that I'm too lazy or inexperienced to begin.
+This hosts all the stuff that I'm too lazy/noob to begin.
 
 Needless to say, most of this stuff is straight-up broken or completely empty, only having minimal-to-no documentation.
 
@@ -16,6 +16,6 @@ I want to know which are worth the time, which should be renamed, which are crap
 
 ## LICENSE
 
-The [license file at the root directory](LICENSE) applies to all sub-repos, **EXCEPT** the sub-repos that include a license.
+The [license file at the root directory](LICENSE) applies to all sub-repos, **EXCEPT** the sub-repos that include a license (either as a file, or a source-code comment).
 
 In other words, licenses at inner directories override licenses at outer directories
