@@ -6,6 +6,8 @@
 - performance
 - reduced memory use
 - disambiguation metadata
+- magic number
+- Media Type `application/x-ttbc`
 
 ## Goals
 
