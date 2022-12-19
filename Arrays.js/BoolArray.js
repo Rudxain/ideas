@@ -1,3 +1,11 @@
+/*
+polyfill for the potentially-future Boolean TypedArray.
+
+code based on the ECMAScript spec, not real-life polyfills.
+
+I'll make this work properly as a polyfill, but later
+*/
+
 (function(){'use strict';
 	const TypeErr = TypeError, RangeErr = RangeError, trunc = Math.trunc,
 		getter = DataView.prototype.getUint8,
