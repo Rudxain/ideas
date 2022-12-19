@@ -6,8 +6,8 @@ code based on the ECMAScript spec, not real-life polyfills.
 I'll make this work properly as a polyfill, but later
 */
 
-(function(){'use strict';
-	const TypeErr = TypeError, RangeErr = RangeError, trunc = Math.trunc,
+(()=>{'use strict';
+	const TypeErr = TypeError, RangeErr = RangeError, {trunc} = Math,
 		getter = DataView.prototype.getUint8,
 		setter = DataView.prototype.setUint8,
 		mapper = Array.prototype.map,
