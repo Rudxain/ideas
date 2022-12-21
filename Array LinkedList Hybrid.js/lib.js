@@ -8,5 +8,4 @@ because it would allow O(1) searching of nearest non-`null` values
 */
 class LinkArray extends Array {
 	constructor(...x) {super(...x)}
-
 }
