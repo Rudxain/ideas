@@ -37,4 +37,4 @@ Integer and Float Math: ADD, SUB, MUL, MUL3 (triplicate), DIV, DIV3 (n/3), GCD, 
 
 ## etc
 
-[Helpful link](https://reddit.com/r/AskProgramming/comments/sxhejz/what_langs_are_recommended_for_coding_a_vm)
+[Reddit post where everything started](https://reddit.com/r/AskProgramming/comments/sxhejz/what_langs_are_recommended_for_coding_a_vm)
