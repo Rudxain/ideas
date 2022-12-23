@@ -10,3 +10,5 @@ My reaction to that information:
 > [+6, +1, -3, -2, -1, -1]
 
 [Original source at SE](https://math.stackexchange.com/questions/2217248/which-answer-in-this-list-is-the-correct-answer-to-this-question)
+
+[lib](lib.py) attempts to be a general algorithm to solve questions of this kind. IDK if it's even possible, it may require solving [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem), [HT](https://en.wikipedia.org/wiki/Halting_problem), **or both**
