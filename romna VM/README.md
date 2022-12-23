@@ -10,7 +10,8 @@
 
 - CISC, for performance.
 - Both a stack machine and a register machine.
-- ALL instructions have a conditional counterpart (predicated ISA) and a virtual-SIMD counterpart where 32bit indices are 64b packed (128b support in the future).
+- ALL instructions have a conditional counterpart (predicated ISA)
+- Most instructions have a Virtual-SIMD counterpart (potentially hardware-accelerated), where 32bit indices are 64b packed (128b support in the future).
 - Support for all bit/Byte/Word endianeses and all their combinations. Support for Gray Code in the future.
 - Endianess-agnostic memory addresses (as an opt-in mode specified in the binary's header)
 - Different levels of addressing granularity: Word, Byte, and bit.
