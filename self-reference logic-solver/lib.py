@@ -1,7 +1,5 @@
 def self_ref_solver(A: list[tuple[int, bool]]):
 	'''
-	https://youtu.be/h_fLW4xlOyA
-
 	format of `A` is `[n,b]`
 
 	The sign of `n` encodes the direction it is referring to:
