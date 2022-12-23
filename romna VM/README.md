@@ -2,7 +2,7 @@
 
 **romna**, a permutation (anagram) of "Norma", "Ramon", "Maron", and "Roman".
 
-"Norma" means "standard" in Esperanto, it's a reference to how the VM isn't following any standard de facto. "I'm not like the others"
+"Norma" means "standard" in Esperanto, it's a reference to how the VM isn't following any standard-de-facto. "I'm not like the others" lol
 
 "Ramón" is just a latino name. "Marron" (an extra "r") is "brown" in spanish, brown is a weird color. "Roman" is just that, lol.
 
