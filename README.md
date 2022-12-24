@@ -5,7 +5,7 @@ This hosts all the stuff that I'm too lazy/noob to begin and/or finish.
 Needless to say, most of this stuff is straight-up broken or empty, only having minimal documentation (a README.md).
 
 All sub-repos will be renamed, deleted, or moved to dedicated repos,
-therefore, links to any of these sub-repos are almost guaranteed to become broken or even 100% dead, so don't @ me for not using permalinks.
+therefore, links to any of these sub-repos are almost guaranteed to become broken or even 100% dead, so don't @ me if you don't use permalinks.
 
 ## why?
 
