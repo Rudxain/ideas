@@ -1,3 +1,5 @@
+from typing import Final
+
 def self_ref_solver(A: list[tuple[int, bool]]):
 	'''
 	format of `A` is `[n,b]`
@@ -15,8 +17,8 @@ def self_ref_solver(A: list[tuple[int, bool]]):
 	`b` specifies the truth value of the statements being pointed at.
 	'''
 
-	no = set()
-	yes = set()
+	no: Final[set[int]] = set()
+	yes: Final[set[int]] = set()
 
 	i = 0
 	if A[0][0] < 0:
