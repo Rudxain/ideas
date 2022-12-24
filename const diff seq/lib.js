@@ -8,7 +8,8 @@
 const abs = x => /**@type {T}*/(x < 0 ? -x : x)
 
 /**
-https://math.stackexchange.com/questions/1345205/perfect-powers-of-successive-naturals-can-you-always-reach-a-constant-differenc
+check if iterator values have the same difference between each other,
+`yield`ing bools at each step
 @template {number|bigint} T
 @param {Iterable<T>} iter
 */
