@@ -1,6 +1,6 @@
 # About
 
-Ideas for mashups, remixes, bootlegs, and orginal audio (usually music)
+Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
 ## Mashups
 
