@@ -4,7 +4,7 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
 ## Mashups
 
-Can't stop the adventure (Coldplay x Justin Timberlake) + Get Lucky + Bruno's Treasure + Suit & Tie + September lol
+Can't stop the adventure (Coldplay x Justin Timberlake) + Get Lucky + Bruno's Treasure + Suit & Tie + September
 
 Sonic The World Adventure, Aladdin  A Whole New World
 
@@ -24,7 +24,7 @@ Big Shot, everybody dance now, Space Jam Ready To Rumble
 
 BAATH, His Theme
 
-Queen., Gaster, TWR (Jevil), Megalovania, Never Gonna Give You up, Amogus, Yaws theme
+Queen., Gaster, TWR (Jevil), Megalovania, Never Gonna Give You up, Amogus, Jaws theme
 
 Spag Heddy - Believe in Nine Circles
 
