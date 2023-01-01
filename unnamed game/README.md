@@ -1,3 +1,5 @@
+# About
+
 A game inspired by Portal (because the protagonist talks with an AI), and by Undertale & DDLC (because it breaks the 4th wall all the time).
 
 It's about privacy in the digital age.
@@ -14,3 +16,7 @@ Of course, the AI will not leak names, nor "very personal" info.
 I have no idea how to add story and lore to the game. Perhaps it doesn't need it?
 
 The game will only be available for Android
+
+## LICENSE
+
+Creative Commons Attribution
