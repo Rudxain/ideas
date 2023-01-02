@@ -12,6 +12,10 @@ Undertale - Uwa!! So Temperate♫
 
 Undertale - Battle Against a True Hero, but as an 80s Hip Hop
 
+Deltarune - Flashback (trap). Yes, I know this has been done at least twice, I just want my own version
+
+Silent Hill - Never Forgive Me, Never Forget Me (trap). Yes, this has been done many times
+
 ## Mashups
 
 All SiIvagunner rips of "DR - Field of Hopes and Dreams"
