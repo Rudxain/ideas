@@ -10,6 +10,8 @@ Mii Channel (Plaza), with drums and a bassline
 
 Undertale - Uwa!! So Temperate♫
 
+Undertale - Battle Against a True Hero, but as an 80s Hip Hop
+
 ## Mashups
 
 All SiIvagunner rips of "DR - Field of Hopes and Dreams"
