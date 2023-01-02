@@ -2,6 +2,14 @@
 
 Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
+## Remixes
+
+Erik Satie - Gymnopedie No. 1
+
+Mii Channel (Plaza), with drums and a bassline
+
+Undertale - Uwa!! So Temperate♫
+
 ## Mashups
 
 All SiIvagunner rips of "DR - Field of Hopes and Dreams"
