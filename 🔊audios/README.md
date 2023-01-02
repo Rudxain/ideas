@@ -4,6 +4,8 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
 ## Mashups
 
+Childish Gambino - Redbone, DR - Green Room, DR - Hip Shop, DR - Hip Shop (Nintendo Switch Version by SiIvagunner), [Hip Shop × Suit and Tie](https://youtu.be/j7mznkNbR04) by [Marf41](https://youtube.com/@cocoffee), DR - Lost Girl, Toby Fox - Lost Girl V2
+
 Can't stop the adventure (Coldplay x Justin Timberlake) + Get Lucky + Bruno's Treasure + Suit & Tie + September
 
 Sonic The World Adventure, Aladdin  A Whole New World
