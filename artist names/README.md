@@ -2,7 +2,7 @@
 
 [Reddit post](https://reddit.com/r/ProgrammerHumor/comments/ljbram/if_rappers_were_also_programmers)
 
-## List
+## Artists
 
 naidnE liL and his bro Big Endian  
 lil uZint  
@@ -26,9 +26,10 @@ Global nameSPACE
 Robbie RotNET  
 Dua Bitpa  
 The Tryte (this one is a rebel ahead of its time by using ternary instead)  
-Render Dragons  
+Render Dragons (holup, this is an actual name used by Mojang, for the Bedrock graphics engine)  
   
-Some of their songs are:  
+## Songs
+
 `AND` my life  
 Stack those Frames  
 Give me the SoC  
@@ -53,5 +54,3 @@ Return to Mother
 `While` I'm Far From You  
 Hotswap Bling  
 Man's `NOT` Bot  
-  
-I'd like to see what names you come up with, maybe even **lyrics** for those songs
