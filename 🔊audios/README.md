@@ -40,4 +40,4 @@ DR Gallery, Sonic CD Majin theme
 
 ## LICENSE
 
-Creative Commons Attribution
+[Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0)
