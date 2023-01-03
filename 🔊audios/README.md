@@ -10,7 +10,7 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 - Undertale - Battle Against a True Hero, but as an 80s Hip Hop
 - Deltarune - Flashback (trap). Yes, I know this has been done at least twice, I just want my own version
 - Silent Hill - Never Forgive Me, Never Forget Me (trap). Yes, this has been done many times
-- (ElectroTango + Son) "give me your heart baby and let's forget about it"
+- Santana - Smooth (ElectroTango x Cuban-Son cover)
 - "Nigga Song" version Dominicano (Cancion del Haitiano). I hope this isn't offensive
 - Megalovania (salsa x merengue x bachata)
 - Deltarune - Smart Race (latin cover)
