@@ -16,7 +16,6 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 - Deltarune - Smart Race (latin cover)
 - This Is Sparta (Dubstep remix)
 - Bossfight - Okiba Crackdown: Virtual Riot Bass + Spag Heddy
-- Piano de la "Rosa de Guadalupe" x Gaster (trap remix)
 
 
 ## Mashups
@@ -42,6 +41,8 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 - DR Gallery, Sonic CD Majin theme
 - FNF - Thorns x Zardy
 - Zelda Mabe Village & Snowdin Town & One of Noelle themes
+- Piano de la "Rosa de Guadalupe" x Gaster (trap remix)
+
 
 ## LICENSE
 
