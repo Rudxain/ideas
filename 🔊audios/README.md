@@ -2,6 +2,10 @@
 
 Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
+## Edits
+
+Sonic Unleashed - Cool Edge (Day), but with lag. This would be a good joke for a SiIvagunner rip
+
 ## Remixes
 
 - Erik Satie - Gymnopedie No. 1
