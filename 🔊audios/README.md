@@ -34,6 +34,7 @@ Sonic Unleashed - Cool Edge (Day), but with lag. This would be a good joke for a
 - Lost Girl x His Theme
 - Sonic Unleashed - Eggmanland Day x ParagonX9 - Chaoz Impact x Megalovania
 - Sonic Unleashed - Eggmanland Might, death by glamour
+- Sonic Unleashed - Windmill Isle (Night) x Rooftop Run (Night) x Skyscraper Scamper (Night)
 - Big Shot, everybody dance now, Space Jam Ready To Rumble
 - BAATH, His Theme
 - Queen., Gaster, TWR (Jevil), Megalovania, Never Gonna Give You up, Amogus, Jaws theme
