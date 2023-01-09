@@ -25,8 +25,12 @@ I was doing the same monitoring+tinkering process... when suddenly... **the Game
 ## Other stuff I hate
 
 For some reason, Samsung thought it's a good idea to log SMSs in the Phone app, **even if "Show messages" is disabled.**
-So if you want to save storage, or increase your privacy, you're forced to enable "Show messages" to dele them.
+So if you want to save storage, or increase your privacy, you're forced to enable "Show messages" to delete them.
 This is even worse when the vast majority of messages are useless carrier ads and reminders, now you're forced to delete those messages **ON BOTH APPS**.
+
+S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
+So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
+That is just the tip of the iceberg, S forces you to use that account for lots of other unnecessary things!
 
 ## Conclusion
 
