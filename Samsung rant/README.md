@@ -32,6 +32,28 @@ S forces users to use a Samsung Account, even for *looking at the list of app up
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
 That is just the tip of the iceberg, S forces you to use that account for lots of other unnecessary things!
 
+S has an obsession with making and pre-installing apps that Google already made.
+As a minimalist person, this is absolutely disgusting:
+
+- "So you like Google Assistant? How about you use Bixby instead?"
+- "You still use G lens? How about you use Bixby Vision?"
+- "G Tasks doesn't exist! Use Reminder!"
+- "Don't use Google Play Services! Use S Pass"
+- "Chrome is so 2016, use S Internet"
+- "Gmail sucks, use S Mail"
+
+Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei)
+
+Something I find pointless, and perhaps harmful, is Device Care app.
+The battery optimization features are nice and all, *but why Memory?*
+It doesn't "close background apps", it **deletes RAM-cache**, that's the *opposite* of device optimization.
+Even worse, they added "Auto-Optimize", and it's **enabled by default,** meaning that every single day, your device **discards ALL of its RAM-cache**, only to generate it again.
+
 ## Conclusion
 
 Needless to say, I fucking hate Samsung, **almost as much as Apple**. I wish I had a phone by any other brand (except Huawei and Xiaomi, those are useless to me)
+
+S knows they have a monopoly over the smartphone market, and they love to abuse that power.
+
+**S is following the steps of YouTube**
+
