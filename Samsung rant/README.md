@@ -57,3 +57,8 @@ S knows they have a monopoly over the smartphone market, and they love to abuse 
 
 **S is following the steps of YouTube**
 
+To be fair, S is a good hardware designer/manufacturer, I just think they suck at software design.
+
+BTW, I think this is the reason why Google and S complement each other, because G sucks at hardware.
+
+I've never used a Galaxy Nexus, but I guess it was a high-quality phone for its time (for the reasons mentioned previously)
