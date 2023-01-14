@@ -24,6 +24,7 @@ Sonic Unleashed - Cool Edge (Day), but with lag. This would be a good joke for a
 
 ## Mashups
 
+- some track by Chime + some track by Porter Robinson. Am I the only one who notices similarities in their styles?
 - All SiIvagunner rips of "DR - Field of Hopes and Dreams"
 - Childish Gambino - Redbone, DR - Green Room, DR - Hip Shop, DR - Hip Shop (Nintendo Switch Version by SiIvagunner), [Hip Shop × Suit and Tie](https://youtu.be/j7mznkNbR04) by [Marf41](https://youtube.com/@cocoffee), DR - Lost Girl, Toby Fox - Lost Girl V2
 - Can't stop the adventure (Coldplay x Justin Timberlake) + Get Lucky + Bruno's Treasure + Suit & Tie + September
