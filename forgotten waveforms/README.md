@@ -18,4 +18,4 @@ But the most forgotten wave is the Circular wave. Its harmonic distribution is w
 
 ## Credits
 
-Thanks LMMS for the graphics
+Thanks LMMS & ZynAddSubFX for the graphics
