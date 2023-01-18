@@ -49,6 +49,15 @@ The battery optimization features are nice and all, *but why Memory?*
 It doesn't "close background apps", it **deletes RAM-cache**, that's the *opposite* of device optimization.
 Even worse, they added "Auto-Optimize", and it's **enabled by default,** meaning that every single day, your device **discards ALL of its RAM-cache**, only to generate it again.
 
+Speaking of that, there's a "RAM Plus" feature that's set to **4GB by default**. This has several problems:
+
+- the "Virtual RAM" is **always active**, unlike Linux's swap (which is only active when RAM explodes). this considerably reduces flash-storage lifespan, because of the frequent write-operations
+- more background apps means more battery wasted
+- storage is already slower than memory, and running too many BG apps will decrease performance
+
+The good news is that "One UI 5" will allow users to easily turn it off. I have "One UI 4" so I had to [use ADB to disable it](https://forum.xda-developers.com/t/disable-samsung-ram-plus.4491743).
+To control it easily, I granted /Llamalab/Automate `WRITE_SECURE_SETTINGS` permission. This also allows me to [enable it again](https://reddit.com/r/galaxys10/comments/zj7itl/comment/izw7y8q) (just-in-case)
+
 ## Conclusion
 
 Needless to say, I fucking hate Samsung, **almost as much as Apple**. I wish I had a phone by any other brand (except Huawei and Xiaomi, those are useless to me)
