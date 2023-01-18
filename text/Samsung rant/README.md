@@ -40,7 +40,7 @@ As a minimalist person, this is absolutely disgusting:
 - "So you like Google Assistant? How about you use Bixby instead?"
 - "You still use G lens? How about you use Bixby Vision?"
 - "G Tasks doesn't exist! Use Reminder!"
-- "Don't use Google Play Services! Use S Pass"
+- "Don't use Google Autofill! Use S Pass"
 - "Chrome is so 2016, use S Internet"
 - "Gmail sucks, use S Mail"
 
