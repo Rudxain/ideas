@@ -28,6 +28,8 @@ For some reason, Samsung thought it's a good idea to log SMSs in the Phone app, 
 So if you want to save storage, or increase your privacy, you're forced to enable "Show messages" to delete them.
 This is even worse when the vast majority of messages are useless carrier ads and reminders, now you're forced to delete those messages **ON BOTH APPS**.
 
+Speaking of logging, "My Files" logs recently used files **even if the list is hidden**, meaning you also have to remember to clear it.
+
 S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
 That is just the tip of the iceberg, S forces you to use that account for lots of other unnecessary things!
@@ -42,7 +44,7 @@ As a minimalist person, this is absolutely disgusting:
 - "Chrome is so 2016, use S Internet"
 - "Gmail sucks, use S Mail"
 
-Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei)
+Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei).
 
 Something I find pointless, and perhaps harmful, is Device Care app.
 The battery optimization features are nice and all, *but why Memory?*
@@ -63,11 +65,9 @@ To control it easily, I granted /Llamalab/Automate `WRITE_SECURE_SETTINGS` permi
 Needless to say, I fucking hate Samsung, **almost as much as Apple**. I wish I had a phone by any other brand (except Huawei and Xiaomi, those are useless to me)
 
 S knows they have a monopoly over the smartphone market, and they love to abuse that power.
-
 **S is following the steps of YouTube**
 
 To be fair, S is a good hardware designer/manufacturer, I just think they suck at software design.
-
 BTW, I think this is the reason why Google and S complement each other, because G sucks at hardware.
 
 I've never used a Galaxy Nexus, but I guess it was a high-quality phone for its time (for the reasons mentioned previously)
