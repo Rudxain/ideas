@@ -39,10 +39,11 @@ Sonic Unleashed - Cool Edge (Day), but with lag. This would be a good joke for a
 - Big Shot, everybody dance now, Space Jam Ready To Rumble
 - BAATH, His Theme
 - Queen., Gaster, TWR (Jevil), Megalovania, Never Gonna Give You up, Amogus, Jaws theme
-- Spag Heddy - Believe in Nine Circles
+- Spag Heddy x Rukkus - Believe in Nine Circles
 - D.ogg, Your Best Nightmare, Megalovania
 - His Theme, Undertale, within Another Medium
 - His Theme, Hopes & Dreams, Black Parade
+- Cee Lo Green - Forget You x Justin Timberlake - Can't Stop The Feeling
 - Bruno Mars - Treasure, get lucky, September, under pressure, balls in yo jaws, Prince of bel air, Rap God, Crab Rave, Can't Stop The Feeling, Staying Alive, NGGYU
 - DR Gallery, Sonic CD Majin theme
 - FNF - Thorns x Zardy
