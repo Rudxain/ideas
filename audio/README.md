@@ -52,6 +52,8 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 - Piano de la "Rosa de Guadalupe" x Gaster (trap remix)
 - Teminite & Panda Eyes - Highscore x Virtual Riot - Energy Drink
 - Dimrain47 - Operation: Evolution x Undertale - Hopes & Dreams
+- Halfbrick - Jetpack Joyride Theme x Deltarune - BIG SHOT
+- Zelda - Song of Storms x Harry Potter Theme
 
 ## Voice
 
