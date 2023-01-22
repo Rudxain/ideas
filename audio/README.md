@@ -43,6 +43,7 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 - Queen., Gaster, TWR (Jevil), Megalovania, Never Gonna Give You up, Amogus, Jaws theme
 - Spag Heddy x Rukkus - Believe in Nine Circles
 - D.ogg, Your Best Nightmare, Megalovania
+- Megalovania with "surf guitar" sound x James Bond theme
 - His Theme, Undertale, within Another Medium
 - His Theme, Hopes & Dreams, Black Parade
 - Cee Lo Green - Forget You x Justin Timberlake - Can't Stop The Feeling
