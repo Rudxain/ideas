@@ -8,6 +8,7 @@ Inspired by [this Char-Map AM-fow](https://llamalab.com/automate/community/flows
 How to do it efficiently?
 
 ## Example
-n = 1114112
-k = 2
-out = (1024 1088)
+- n = 1114112
+- k = 2
+
+output should be: (1024 1088)
