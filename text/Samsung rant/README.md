@@ -24,16 +24,20 @@ I was doing the same monitoring+tinkering process... when suddenly... **the Game
 
 ## Other stuff I hate
 
+### SMS history
 For some reason, Samsung thought it's a good idea to log SMSs in the Phone app, **even if "Show messages" is disabled.**
 So if you want to save storage, or increase your privacy, you're forced to enable "Show messages" to delete them.
 This is even worse when the vast majority of messages are useless carrier ads and reminders, now you're forced to delete those messages **ON BOTH APPS**.
 
+### Recent files
 Speaking of logging, "My Files" logs recently used files **even if the list is hidden**, meaning you also have to remember to clear it.
 
+### Useless account
 S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
 That is just the tip of the iceberg, S forces you to use that account for lots of other unnecessary things!
 
+### Duped apps
 S has an obsession with making and pre-installing apps that Google already made.
 As a minimalist person, this is absolutely disgusting:
 
@@ -46,11 +50,26 @@ As a minimalist person, this is absolutely disgusting:
 
 Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei).
 
+### Blue Light Filter
+
+When I was looking at hidden app activities in my J3 Mission, I noticed S made its own "BLF" independent of AOSP's "Night Light",
+but it was no-op, so I had to resort to the AOSP version (which was also hidden from Settings, for some reason).
+
+Everytime I wanted to toggle NL, I had to use an Automate-flow that changed the setting. And if I wanted to configure the color temperature or schedule, I had to use Automate to open the hidden activity.
+
+They literally updated my device from Android 7 to 8, and decided to hide a well-behaved fully-functional feature, just because they were working on a cheap clone...
+
+Thank you, Samsung, for being so annoying!
+
+### Memory "optimization"
 Something I find pointless, and perhaps harmful, is Device Care app.
 The battery optimization features are nice and all, *but why Memory?*
 It doesn't "close background apps", it **deletes RAM-cache**, that's the *opposite* of device optimization.
 Even worse, they added "Auto-Optimize", and it's **enabled by default,** meaning that every single day, your device **discards ALL of its RAM-cache**, only to generate it again.
 
+This has been an issue **for years**, before One UI even existed.
+
+### Persistent swap memory
 Speaking of that, there's a "RAM Plus" feature that's set to **4GB by default**. This has several problems:
 
 - the "Virtual RAM" is **always active**, unlike Linux's swap (which is only active when RAM explodes). this considerably reduces flash-storage lifespan, because of the frequent write-operations
