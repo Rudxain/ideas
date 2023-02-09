@@ -42,7 +42,8 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 - Sonic Unleashed - Eggmanland Might, death by glamour
 - Sonic Unleashed - Windmill Isle (Night) x Rooftop Run (Night) x Skyscraper Scamper (Night)
 - Big Shot, everybody dance now, Space Jam Ready To Rumble
-- BAATH, His Theme
+- BAATH x His Theme
+- Undertale - BAATH x Sonic Unleashed - Crimson Carnival / Eggmanland (Day). I have no idea how this would work, but I have a feeling that it should
 - Queen., Gaster, TWR (Jevil), Megalovania, Never Gonna Give You up, Amogus, Jaws theme
 - Spag Heddy x Rukkus - Believe in Nine Circles
 - D.ogg, Your Best Nightmare, Megalovania
