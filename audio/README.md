@@ -61,6 +61,7 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 - Halfbrick - Jetpack Joyride Theme x Deltarune - BIG SHOT
 - Zelda - Song of Storms x Harry Potter Theme
 - Panda Eyes - Colorblind x Hinkik - Time Leaper. The joke is that both were overused in Geometry Dash online
+- No More Puzzles (UTHH - No More Nuzzles, but for Papyrus)
 
 ## Voice
 
