@@ -12,3 +12,7 @@ Computer-generated abstract minimalist graphic art generator, useful to make wal
 - fractals
 - Creeper faces (random colors)
 - simple centered polygons with random angles and colors (includes random background)
+
+## News
+
+[It already exists!](https://play.google.com/store/apps/details?id=com.sharpregion.tapet). But it's not a PWA
