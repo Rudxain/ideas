@@ -5,9 +5,10 @@ Computer-generated abstract minimalist graphic art generator, useful to make wal
 ## Presets
 
 - low-poly
-- material design
-- gradients at any angle and arbitrary number of colors
+- Material Design
+- linear gradients at any angle and arbitrary number of colors, also radial gradients
+- Perlin Noise (chaotic gradient)
 - infinite tiling
 - fractals
-- creeper faces (random colors)
+- Creeper faces (random colors)
 - simple centered polygons with random angles and colors (includes random background)
