@@ -6,7 +6,7 @@ Computer-generated abstract minimalist graphic art generator, useful to make wal
 
 - low-poly
 - Material Design
-- linear gradients at any angle and arbitrary number of colors, also radial gradients
+- linear gradients at any angle and arbitrary number of colors, also radial and conic gradients
 - Perlin Noise (chaotic gradient)
 - infinite tiling
 - fractals
