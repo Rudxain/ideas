@@ -26,7 +26,7 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
 ## Mashups
 
-- Duke Dumont- Red Light Green Light x Zomboy - Lights Out. I should also make a GD map out of this...
+- Duke Dumont - Red Light Green Light x Zomboy - Lights Out. I should also make a GD map out of this...
 - Mike Posner - Cooler Than Me x KDrew - Bullseye. The melody is literally the same
 - some track by Chime + some track by Porter Robinson. Am I the only one who notices similarities in their styles?
 - All SiIvagunner rips of "DR - Field of Hopes and Dreams"
