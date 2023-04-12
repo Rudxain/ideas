@@ -1,7 +1,7 @@
 ## informal spec
 
 Rust but with:
-
+- [Dependent types](https://en.wikipedia.org/wiki/Dependent_type)
 - bounded numbers, with set theory syntax to unite/discard intervals/properties of numbers
 - default behavior of operators is throw a runtime error on overflow or underflow, don't assume wrapping/modulo
 - statically/compile-time checking of **EVERYTHING**, like in Ada
