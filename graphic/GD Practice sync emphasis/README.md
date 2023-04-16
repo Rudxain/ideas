@@ -1,0 +1,1 @@
+Make videos where the Geometry Dash practice mode syncs with maps being played. The videos should make it seem as if the editor is obsessively trying to make the practice-music sync with the level. When the PM does sync perfectly, add earrape bass-boost
