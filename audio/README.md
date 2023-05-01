@@ -27,6 +27,8 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
 ## Mashups
 
+- Sonic Unleashed - Endless Possibilities ITSO Lisa - Crossing Field
+- Sonic Unleashed - Endless Possibilities ITSO UT - Megalovania 
 - Papa's Pizzeria with The Godfather melody
 - Shakira & Bizarrap, OcularNebula - Stay Inside Me
 - Duke Dumont - Red Light Green Light x Zomboy - Lights Out. I should also make a GD map out of this...
