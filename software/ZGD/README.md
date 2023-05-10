@@ -13,8 +13,8 @@ The game will be distributed as a WASM PWA, so it'll be cross-platform, with min
 Difficulties & scores. f(n) = 4^n - 1:
 
 0. Safe Auto, 0: No matter what you do, you can't die.
-1. Unsafe Auto, 1: If you click, you might die.
-2. Easy \[2, 7] ("Easy" to "Normal")
-3. Medium \[8, 31] ("Hard" to "Harder")
-4. Hard \[32, 127] ("Harder" to "Medium-Demon")
-5. Extreme \[128, 511] ("H.D." to "E.D.")
+1. Unsafe Auto, \[1, 3]: If you click, you might die.
+2. Easy \[4, 15] ("Easy" to "Normal")
+3. Medium \[16, 63] ("Hard" to "Harder")
+4. Hard \[64, 255] ("Harder" to "Medium-Demon")
+5. Extreme \[256, 1023] ("H.D." to "E.D.")
