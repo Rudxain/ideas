@@ -11,6 +11,7 @@ The game will be completely offline (serverless). So creators/artists will have 
 The game will be distributed as a WASM PWA, so it'll be cross-platform, with minimal development cost, but slightly slower than a native app (don't worry, I'll use WebGL in the future)
 
 Difficulties & scores. f(n) = 4^n - 1:
+
 0. Safe Auto, 0: No matter what you do, you can't die.
 1. Unsafe Auto, 1: If you click, you might die.
 2. Easy \[2, 7] ("Easy" to "Normal")
