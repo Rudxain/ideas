@@ -18,3 +18,5 @@ Difficulties & scores. f(n) = 4^n - 1:
 3. Medium \[16, 63] ("Hard" to "Harder")
 4. Hard \[64, 255] ("Harder" to "Medium-Demon")
 5. Extreme \[256, 1023] ("H.D." to "E.D.")
+
+Scores will be one of the only things to use fixed-precision float arithmetic. This guarantees the "resolution" of each difficulty-range is the same for all difficulties
