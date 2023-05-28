@@ -1,0 +1,15 @@
+A lang based on PHP, JS, and Holy C. Meant as a parody/satire of religious mindsets.
+
+It has GOP (God Oriented Programming), which is just regular OOP, but the root class is an `Object` named `God`. All subclasses and objects are constructed from `God`. Attempting to `God(God)` is both a `SyntaxError` and a `TypeError`, as `God` is an atheist and doesn't have the power to create another deity (despite being omnipotent).
+
+Of all numbers, the number `3` is considered falsy, for no reason whatsoever. This pokes fun at anthropocentrism, which is the belief that humans are the protagonists of the universe, and that humans have souls and free will (unlike animals). It also pokes fun at "supernatural" stuff, despite the fact that anything that happens within the universe's natural-bounds is also natural by definition.
+
+The number `69` is considered "sinful", any use of it will incur in a slowdown penalty of 69%.
+
+`666` is a `SyntaxError`, use `665+1` instead.
+
+`Bool`s don't exist. In a dogmatic mindset, there's no such thing as "true" or "false".
+
+String literals can be written using any combination of `"` and `'`. `''` is considered "the same" as `"`
+
+Monkey Patching, reflection, and operator overloading, are all forbidden
