@@ -1,10 +1,11 @@
 # FS
 
-A lang based on PHP, JS, and Holy C. Meant as a parody/satire of religious mindsets.
+A lang based on PHP, JS, and Holy C. Meant as a parody/satire of religious/cult mindsets and dogmas.
 
+I've chosen those langs, because:
 > JS & PHP are jokes that everyone decided to take seriously - (unknown)
 
-This is reminiscent of most religions.
+Which is reminiscent of most religions.
 
 ## Features
 
@@ -16,8 +17,8 @@ The number `69` is considered "sinful", any use of it will incur in a slowdown p
 
 `666` is a `SyntaxError`, use `665+1` instead.
 
-`Bool`s don't exist. In a dogmatic mindset, there's no such thing as "true" or "false".
+The only `Bool` is `true`. In a dogmatic mindset, there's no such thing "false". You must blindly believe everything the cult says.
 
 String literals can be written using any combination of `"` and `'`. `''` is considered "the same" as `"`
 
-Monkey Patching, reflection, and operator overloading, are all forbidden
+Monkey Patching, reflection, and operator overloading, are all forbidden. You're not the authority here, you're an **intellectual slave**
