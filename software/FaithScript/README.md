@@ -1,8 +1,16 @@
+# FS
+
 A lang based on PHP, JS, and Holy C. Meant as a parody/satire of religious mindsets.
+
+> JS & PHP are jokes that everyone decided to take seriously - (unknown)
+
+This is reminiscent of most religions.
+
+## Features
 
 It has GOP (God Oriented Programming), which is just regular OOP, but the root class is an `Object` named `God`. All subclasses and objects are constructed from `God`. Attempting to `God(God)` is both a `SyntaxError` and a `TypeError`, as `God` is an atheist and doesn't have the power to create another deity (despite being omnipotent).
 
-Of all numbers, the number `3` is considered falsy, for no reason whatsoever. This pokes fun at anthropocentrism, which is the belief that humans are the protagonists of the universe, and that humans have souls and free will (unlike animals). It also pokes fun at "supernatural" stuff, despite the fact that anything that happens within the universe's natural-bounds is also natural by definition.
+Of all numbers, the number `3` is considered falsy, for no reason whatsoever. This pokes fun at anthropocentrism, which is the belief that humans are the protagonists of the universe, and that humans have souls and free will (unlike animals). It also pokes fun at "supernatural" stuff, because anything that happens within the universe's natural-bounds is also natural by definition, therefore "supernatural" stuff doesn't exist (unless it transcends the universe).
 
 The number `69` is considered "sinful", any use of it will incur in a slowdown penalty of 69%.
 
