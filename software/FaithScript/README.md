@@ -17,7 +17,7 @@ The number `69` is considered "sinful", any use of it will incur in a slowdown p
 
 `666` is a `SyntaxError`, use `665+1` instead.
 
-The only `Bool` is `true`. In a dogmatic mindset, there's no such thing "false". You must blindly believe everything the cult says.
+The only `Bool` is `true`. In a dogmatic mindset, there's no such thing as "false". You must blindly believe everything the cult says.
 
 String literals can be written using any combination of `"` and `'`. `''` is considered "the same" as `"`
 
