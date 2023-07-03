@@ -74,8 +74,8 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
 ## Voice
 
-[The Backrooms: level 256](http://backrooms-wiki.wikidot.com/level-256) (voice acted)
-
+- [The Backrooms: level 256](http://backrooms-wiki.wikidot.com/level-256)
+- [ReactJS-ReactOS disappointment](https://news.ycombinator.com/item?id=13665499)
 
 ## LICENSE
 
