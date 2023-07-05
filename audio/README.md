@@ -1,6 +1,6 @@
 # About
 
-Ideas for mashups, remixes, bootlegs, and original audio (usually music)
+Ideas for mashups, remixes, bootlegs, original audio (usually music, but includes voice acting)
 
 ## Edits
 
@@ -27,6 +27,7 @@ Ideas for mashups, remixes, bootlegs, and original audio (usually music)
 
 ## Mashups
 
+- Sonic Unleashed - Shamar (Night) x Camila Cabello - Havana (vocals only)
 - Sandy Marton - Camel By Camel x Step - Polargeist
 - FantomenK - Bionic Belly Button x Panda Eyes - Highscore x DR - Rude Buster x UT - Megalovania
 - Sonic Unleashed - Endless Possibilities ITSO Lisa - Crossing Field
