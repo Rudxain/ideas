@@ -30,6 +30,7 @@ Ideas for mashups, remixes, bootlegs, original audio (usually music, but include
 
 ## Mashups
 
+- BNA - Lazy x UT - Temmie Village
 - BNA - Alan + \[insert rap lyrics\]
 - BNA - Wish x Caramelldansen x Snow Halation
 - BNA - Don't be a stranger + NGGYU (We're no strangers to love) (vocals)
