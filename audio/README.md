@@ -27,6 +27,7 @@ Ideas for mashups, remixes, bootlegs, original audio (usually music, but include
 
 ## Mashups
 
+- BNA - Don't be a stranger + NGGYU (We're no strangers to love) (vocals)
 - Sonic Unleashed - Shamar (Night) x Camila Cabello - Havana (vocals only)
 - Sandy Marton - Camel By Camel x Step - Polargeist
 - FantomenK - Bionic Belly Button x Panda Eyes - Highscore x DR - Rude Buster x UT - Megalovania
