@@ -10,6 +10,7 @@ Ideas for mashups, remixes, bootlegs, original audio (usually music, but include
 
 ## Remixes
 
+- BNA - Alan, phonk
 - Shakira & Bizarrap, DNB x Trap
 - Erik Satie - Gymnopedie No. 1
 - Mii Channel (Plaza), with drums and a bassline
@@ -27,6 +28,7 @@ Ideas for mashups, remixes, bootlegs, original audio (usually music, but include
 
 ## Mashups
 
+- BNA - Alan + \[insert rap lyrics\]
 - BNA - Wish x Caramelldansen x Snow Halation
 - BNA - Don't be a stranger + NGGYU (We're no strangers to love) (vocals)
 - Sonic Unleashed - Shamar (Night) x Camila Cabello - Havana (vocals only)
