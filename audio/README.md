@@ -10,7 +10,6 @@ Ideas for mashups, remixes, bootlegs, original audio (usually music, but include
 
 ## Remixes
 
-
 - BNA - In the past x DR - Don't Forget (leitmotif)
 - BNA - Alan, phonk
 - Shakira & Bizarrap, DNB x Trap
@@ -83,6 +82,7 @@ Ideas for mashups, remixes, bootlegs, original audio (usually music, but include
 
 ## Voice
 
+- Virtual Riot - Init, beatbox/acapella
 - [The Backrooms: level 256](http://backrooms-wiki.wikidot.com/level-256)
 - [ReactJS-ReactOS disappointment](https://news.ycombinator.com/item?id=13665499)
 
