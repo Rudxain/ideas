@@ -32,6 +32,7 @@ Ideas for mashups, remixes, bootlegs, original audio (usually music, but include
 
 - BNA - Lazy x UT - Temmie Village
 - BNA - Alan + \[insert rap lyrics\]
+- BNA - Alan x Song for Denise. Wide Alan Walking, lol
 - BNA - Wish x Caramelldansen x Snow Halation
 - BNA - Don't be a stranger + NGGYU (We're no strangers to love) (vocals)
 - Sonic Unleashed - Shamar (Night) x Camila Cabello - Havana (vocals only)
