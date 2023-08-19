@@ -2,27 +2,7 @@
 
 Ideas for mashups, remixes, bootlegs, original audio (usually music, but includes voice acting)
 
-## Remixes
-
-- BNA - In the past x DR - Don't Forget (leitmotif)
-- BNA - Alan, phonk
-- Shakira & Bizarrap, DNB x Trap
-- Erik Satie - Gymnopedie No. 1
-- Mii Channel (Plaza), with drums and a bassline
-- Undertale - Uwa!! So Temperate♫
-- Undertale - Battle Against a True Hero, but as an 80s Hip Hop
-- Deltarune - Flashback (trap). Yes, I know this has been done at least twice, I just want my own version
-- Silent Hill - Never Forgive Me, Never Forget Me (trap). Yes, this has been done many times
-- Santana - Smooth (ElectroTango x Cuban-Son cover)
-- "Nigga Song" version Dominicano (Cancion del Haitiano). I hope this isn't offensive
-- Megalovania (salsa x merengue x bachata)
-- Deltarune - Smart Race (latin cover)
-- This Is Sparta (Dubstep remix)
-- Bossfight - Okiba Crackdown: Virtual Riot Bass + Spag Heddy
-
-
 ## Mashups
-
 - BNA - Lazy x UT - Temmie Village
 - BNA - Alan + \[insert rap lyrics\]
 - BNA - Alan x Song for Denise. Wide Alan Walking, lol
