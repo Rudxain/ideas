@@ -18,7 +18,7 @@ There are too many valid ways to define a self-modifying Hardvard TM:
 - Do we use 2 STs concatenated with each other? Or do we merge them into 1?
 - If we do concatenate them, what order is most "natural"?
 - Should we have 2 TMs (where 1 rewrites the 2nd TM's ST, such that both are driven by the same "clock"), or 1 double-tape double-head TM?
-- Should ST be written in an arbitrary alphabet, or the native alphabet of the TM? (**multi-alphabet** TM)
+- Should ST be written in an arbitrary alphabet (**multi-alphabet** TM), or the native alphabet of the TM?
 - Should ST be alphabet-encoded at all, or should it be a purely abstract mathematical object? (no double-tape)
 
 In contrast, VN (despite being harder to debug) is much more straightforward:
@@ -27,6 +27,8 @@ In contrast, VN (despite being harder to debug) is much more straightforward:
 - 1 tape and head
 - native-alphabet ST
 - if TM is binary, use binary-encoded ST
+
+Since TMs are supposed to be "the simplest Turing-Complete models of computation", and because I'm lazy, I choose VN over HV.
 
 
 ## Implementation
