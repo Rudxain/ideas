@@ -1,3 +1,5 @@
-I have an original idea: Mix the rules of Bomberman, Snake, Minesweeper, and MC Redstone, to make a cellular automaton.
+https://youtube.com/watch?v=WMJ1H3Ai-qs&lc=Ugy166CtgYlnAiLESfN4AaABAg
 
-I would do it like this: In Bomberman, there's wall cells, bomb cells, and player cells. In Minesweeper, we can take inspiration from quantum mechanics, and say that "unknown cells" are in a superposition between "bomb cell" and "safe cell". With snake, we add moving snake-cells, and randomly-generated food-cells
+Mixes the rules of Bomberman, Snake, Minesweeper, and MC Redstone.
+
+There's wall-cells, bomb-cells, and bomber-cells. Taking inspiration from quantum mechanics, "unknown cells" are in a superposition between bombs and empty. There's moving snake-cells, and randomly-generated food-cells
