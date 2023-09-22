@@ -13,4 +13,6 @@ The way it recognizes usernames is pretty simple, just look for "@" or "u/" pref
 For GH, this is much trickier, as GH only uses "@" for mentions/pings, and profile URLs never contain "@". I'm still thinking of a solution... 🤔
 
 ## Settings
-For the sake of reducing distractions, you can choose between {white|black}list behavior by default, and add usernames to the list
+For the sake of reducing distractions, you can choose between {white|black}list behavior by default, and add usernames to the list.
+
+I want to implement a "exclude mentions" feature, but I have no idea how to code it 💀
