@@ -6,7 +6,7 @@ The player always has more-than-enough time to solve each puzzle, ranging from *
 
 Most of the time, the player/protag will spend his time in the humble (but welcoming and comfortable) house that I mentioned previously. This house is quite beautiful. Our protag always ensures the house feels like "motherly love" to him and his visitors.
 
-In the span of a day, the player can hear the protag singing in french, italian, or norwegian. He usually sings in french at night.
+In the span of a day, the player can hear the protag singing in french, italian, or norwegian. He usually sings in french at night. The player can "join in" by pressing keys in a DDR/FNF fashion in order to play an instrument that syncs with Brögen's singing. This is entirely optional, as the player can stop playing the instrument at any time.
 
 The game must be designed in a way that encourages the player to not speedrun, but lets them be free of doing so.
 
