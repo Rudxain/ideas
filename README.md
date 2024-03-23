@@ -11,5 +11,8 @@ therefore, links to any of these sub-repos are almost guaranteed to become broke
 
 If I die unexpectedly, I want people to (at least) see my works-in-progress, and potentially continue development.
 
+As a wise human said:
+> [When In Doubt, Make It Public](https://blog.codinghorror.com/when-in-doubt-make-it-public)
+
 Even if I don't die, I want people to give me feedback about these projects.
 I want to know which are worth the time, which should be renamed, which are crap, or how can I improve them, so please be honest.
