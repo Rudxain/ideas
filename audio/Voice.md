@@ -1,3 +1,5 @@
 - Virtual Riot - Init, beatbox/acapella
 - [The Backrooms: level 256](http://backrooms-wiki.wikidot.com/level-256)
 - [ReactJS-ReactOS disappointment](https://news.ycombinator.com/item?id=13665499)
+- GD Lobotomy Sample pack dor Newgrounds: saying FITH and WOTH in different voices, tones, and personalities. Also including some genZ and gen-alpha slang
+- [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
