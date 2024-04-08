@@ -8,4 +8,16 @@ This linter exploits implementation details of a given compiler, in order to det
 - Code that could be re-written to allow the compiler to optimize it
 - ... and more!
 
-Since this is language-specific, we cannot take an approach similar to [LSP](https://en.wikipedia.org/wiki/Language_Server_Protocol), so it has to be rewritten for every lang that we want to support
+Since this is language-specific, we cannot take an approach similar to [LSP](https://en.wikipedia.org/wiki/Language_Server_Protocol), so it has to be rewritten for every lang that we want to support. Originally, this was meant for `rustc` only.
+
+## Pros
+- Better than regular linters
+- Reduces the need for writing tests
+- Catch almost all bugs at compile-time
+
+## Cons
+- Many false positives
+- Many false negatives
+- Unstable lints, requiring warnings instead of errors
+- Doesn't use AI to detect human intent (this is a pro, too)
+- Too slow, because it depends on release-mode optimizations
