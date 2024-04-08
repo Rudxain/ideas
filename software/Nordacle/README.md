@@ -2,9 +2,10 @@
 A nerdy linter pretending to be an oracle.
 
 This linter exploits implementation details of a given compiler, in order to detect:
-- Characteristics of variables, such as ranges. No more silly `u16` when you know for a fact that it's a `FibPrime12` (12bit Fibonacci Prime)
+- Characteristics of variables, such as ranges. No more silly `u16` when you know for a fact that it's a `FibPrime12` (12bit [Fibonacci Prime](https://en.wikipedia.org/wiki/Fibonacci_prime)) or a `u8` that's actually a 3[trit](https://en.wikipedia.org/wiki/Ternary_numeral_system)
 - Unreachable code, dead code, and unintentional infinite loops
-- Implicit panic points, such as `x / potentially_zero` and out-of-bounds access
+- Implicit panic points, such as `x / maybe_zero` and out-of-bounds access
+- Huge memory allocations that considerably increase the likelihood of an out-of-memory panic
 - Code that could be re-written to allow the compiler to optimize it
 - ... and more!
 
