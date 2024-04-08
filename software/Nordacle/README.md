@@ -1,5 +1,5 @@
 # 🤓👁👁👁
-A nerdy linter pretending to be an oracle.
+A nerdy linter pretending to be an [oracle](https://en.wikipedia.org/wiki/Oracle_machine).
 
 This linter exploits implementation details of a given compiler, in order to detect:
 - Characteristics of variables, such as ranges. No more silly `u16` when you know for a fact that it's a `FibPrime12` (12bit [Fibonacci Prime](https://en.wikipedia.org/wiki/Fibonacci_prime)) or a `u8` that's actually a 3[trit](https://en.wikipedia.org/wiki/Ternary_numeral_system)
