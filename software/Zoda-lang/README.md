@@ -4,10 +4,9 @@ A programming language.
 - Default radix can be specified via the global `Num.RADIX`. As a byproduct, it can only be specified using unary (either directly or indirectly)
 - Arbitrary numerals can be written as `radix#NUM`, where `radix` is a constant expression wrapped in parentheses or a mere literal in default radix
 - `bool`s are just `enum`s like in Ada and Gleam
-- Ints are ranged, like in Ada
+- Numbers are ranged/bounded, with set theory syntax to unite/discard intervals/properties of numbers
 - There's subroutines and fns, just like in Ada
-- There are no floats, only fractions.
-- Fractions can have immutable denominators, allowing floating-point optimizations if denom is of the form 2^-n.
+- Fractions can have immutable denominators, allowing optimizations if denom is of the form $2^{-n}$.
 - Keywords are inspired by conlangs, usually latin-based
 - Syntax is Python-like, but without ":"
 - There's a borrow-checker, like in Rust
@@ -15,3 +14,16 @@ A programming language.
 - Whitespace is the main delimiter, just like Lisp. So any Unicode identifier is valid, so long as it doesn't contain space (zero-width chars are forbidden too)
 - Everything is immutable by default.
 - Mutable variables don't inherently make their values have inner mutability, so strings are immutable by default without the need of being primitives
+- [Dependent types](https://en.wikipedia.org/wiki/Dependent_type)
+- default behavior of arithmetic is compile-time error on overflow or underflow, don't assume wrapping/modulo
+- statically/compile-time checking of **EVERYTHING**, like in Ada
+- subset strings that must match a regex at compile-time
+- direct (non-retroactive) type inference allowed for globals
+- binary ints don't exist, use explicit bounds, like `0 < n < 9`
+- `>>^` and `^<<` ops for circular (rotation) shift
+- almost all arithmetic ops are variadic, so you can easily sum a list
+- operators don't exist, only functions, like in Lisp
+- fns can only have 0 or 1 parameters, use collection types to pass multiple values (such as `struct`s for named args)
+- support floats with different mantissa and exponent sizes, don't assume IEEE-754
+- support different sign bit layout for floats (only allow it at the left of mantissa, or left of exp)
+- mother data structure constructor: creates any kind of data structure from the given parameters
