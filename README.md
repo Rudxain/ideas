@@ -1,6 +1,10 @@
 # 💡 ideas
+This hosts stuff that's unfinished or hasn't even started, for many reasons:
+- laziness
+- lack of time
+- not enough knowledge
 
-This hosts all the stuff that I'm too lazy and/or noob to start making. Some of these are ✨dreams I wish came true, others are just crappy experiments, and others should be moved to my [blog](https://github.com/Rudxain/blog) or [wiki](https://github.com/Rudxain/RX-wiki).
+Some of these are ✨dreams I wish came true, others are just crappy experiments/pet-projects, and others should be moved to my [blog](https://github.com/Rudxain/blog) or [wiki](https://github.com/Rudxain/RX-wiki).
 
 Needless to say, most of the code is straight-up broken or empty, only having minimal documentation (`README.md`).
 
