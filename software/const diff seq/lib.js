@@ -38,11 +38,3 @@ const same_diff = function* (iter) {
 		x_prev = x_now
 	}
 }
-/*
-const f = iter => {
-	iter = [...iter]
-	let i = 0
-	while (same_diff(iter) && iter.length > 0);
-	return iter[0]
-}
- */
