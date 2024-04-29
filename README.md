@@ -1,18 +1,20 @@
-# 💡ideas
+# 💡 ideas
 
-This hosts all the stuff that I'm too lazy/noob to begin and/or finish.
+This hosts all the stuff that I'm too lazy and/or noob to start making. Some of these are ✨dreams I wish came true, others are just crappy experiments, and others should be moved to my [blog](https://github.com/Rudxain/blog) or [wiki](https://github.com/Rudxain/RX-wiki).
 
-Needless to say, most of this stuff is straight-up broken or empty, only having minimal documentation (a README.md).
+Needless to say, most of the code is straight-up broken or empty, only having minimal documentation (`README.md`).
 
-All sub-repos will be renamed, deleted, or moved to dedicated repos,
-therefore, links to any of these sub-repos are almost guaranteed to become broken or even 100% dead, so don't @ me if you don't use permalinks.
+Links to any of these sub-repos are almost guaranteed to become broken or even 100% dead, so don't @ me if you don't use permalinks. This may be caused by:
+- renaming directories
+- deletion
+- moving to dedicated (real) repos
+- moving to another category directory
 
-## why?
-
-If I die unexpectedly, I want people to (at least) see my works-in-progress, and potentially continue development.
-
+## Why?
 As a wise human said:
 > [When In Doubt, Make It Public](https://blog.codinghorror.com/when-in-doubt-make-it-public)
 
-Even if I don't die, I want people to give me feedback about these projects.
-I want to know which are worth the time, which should be renamed, which are crap, or how can I improve them, so please be honest.
+While I'm alive, I want **anyone** (even AI and animals) to give me [feedback](https://en.wikipedia.org/wiki/Request_for_Comments) about these projects.
+I want to know which are worth my time, which should be renamed, which are crap, or how can I improve them, so please be honest.
+
+When I die, I want people to read my works-in-progress, and potentially continue development
