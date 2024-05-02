@@ -1,0 +1,1 @@
+A copy-pasta based on [this](https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m#L108-L136), but talking about [PHP](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
