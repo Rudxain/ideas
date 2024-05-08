@@ -16,10 +16,4 @@
 - Undertale - Metal Crusher (only the beginning), for IDOL at 2:30
 - Goofy ahh & modern brainrot sfx
 - FNF x Hololive - everybody sings Idol
-- metal pipe-bomb nuke with guy saying "WHAT THE F-" (this is for the very end
-
-
-
-
-
-
+- metal pipe-bomb nuke with guy saying "WHAT THE F-" (this is for the very end)
