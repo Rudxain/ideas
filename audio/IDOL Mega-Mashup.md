@@ -1,6 +1,7 @@
 - Yoasobi - IDOL (Japanese & English)
 - Hatsune Miku - Idol (cover)
 - attempt to fit "Pure Pure"/"Rabbit Hole" (it may not work)
+- attempt to fit M2U music
 - Vine Boom sfx
 - Super Idol
 - Virtual Riot - Idols
@@ -11,6 +12,7 @@
 - Waterflame - Hexagon Force & Blast Processing
 - "All my fellas" sfx
 - Amogus sus sfx and Among Drip
+- add breakcore "AMEN BREAK" to trap section
 - Gaster theme / ANOTHER HIM
 - Megalovania
 - Turbo - Eurobeat remix
