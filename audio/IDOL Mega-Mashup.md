@@ -1,0 +1,25 @@
+- Yoasobi - IDOL (Japanese & English)
+- Hatsune Miku - Idol (cover)
+- Vine Boom sfx
+- Super Idol
+- Virtual Riot - Idols
+- The Rock - Face Off
+- Death Note choir
+- Halo Choir
+- Undertale - Death by Glamour
+- Waterflame - Hexagon Force & Blast Processing
+- "All my fellas" sfx
+- Amogus sus sfx and Among Drip
+- Gaster motif
+- Turbo - Eurobeat remix
+- Ching Cheng Hanji sfx
+- Undertale - Metal Crusher (only the beginning), for IDOL at 2:30
+- Goofy ahh & modern brainrot sfx
+- FNF x Hololive - everybody sings Idol
+- metal pipe-bomb nuke with guy saying "WHAT THE F-" (this is for the very end
+
+
+
+
+
+
