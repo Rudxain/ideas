@@ -10,7 +10,8 @@
 - Waterflame - Hexagon Force & Blast Processing
 - "All my fellas" sfx
 - Amogus sus sfx and Among Drip
-- Gaster motif
+- Gaster theme / ANOTHER HIM
+- Megalovania
 - Turbo - Eurobeat remix
 - Ching Cheng Hanji sfx
 - Undertale - Metal Crusher (only the beginning), for IDOL at 2:30
