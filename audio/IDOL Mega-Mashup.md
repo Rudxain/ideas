@@ -1,5 +1,6 @@
 - Yoasobi - IDOL (Japanese & English)
 - Hatsune Miku - Idol (cover)
+- attempt to fit "Pure Pure"/"Rabbit Hole" (it may not work)
 - Vine Boom sfx
 - Super Idol
 - Virtual Riot - Idols
