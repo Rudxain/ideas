@@ -1,18 +1,21 @@
 - Yoasobi - IDOL (Japanese & English)
 - Hatsune Miku - Idol (cover)
+- Bling bling bang born
 - attempt to fit "Pure Pure"/"Rabbit Hole" (it may not work)
 - attempt to fit M2U music
 - Vine Boom sfx
-- Super Idol
+- Super Idol meme
 - Virtual Riot - Idols
 - The Rock - Face Off
 - Death Note choir
 - Halo Choir
-- Undertale - Death by Glamour
-- Waterflame - Hexagon Force & Blast Processing
+- UT - But the Earth Refused to Die
+- UT - Death by Glamour
+- UT Halloween Hack - No More Nuzzles (SiIvagunner Katy Perry rip)
+- Waterflame - Hexagon Force & Blast Processing, Electroman Adventures (later)
 - "All my fellas" sfx
 - Amogus sus sfx and Among Drip
-- add breakcore "AMEN BREAK" to trap section
+- add breakcore "AMEN BREAK" to trap section, maybe something like Xtrullor & Panda Party - Sheol (at 0:35), which is more akin to D&B.
 - Gaster theme / ANOTHER HIM
 - Megalovania
 - Turbo - Eurobeat remix
