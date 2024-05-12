@@ -1,3 +1,4 @@
+- Papa Roach - Last Resort x DR - BIG SHOT
 - Timbaland - Give it to me x Flo-Rida & T-Pain - Apple Bottom Jeans
 - Serebro - Mimimi x Taylor Swift - Look What You Made Me Do x Billie Eilish - Bad Guy
 - Haddaway - What Is Love x Capital Cities - Safe & Sound
