@@ -1,3 +1,4 @@
+- LiSA - Crossing Field: Hatsune Miku and Chester (Linkin Park) AI cover. Some parts must have breakcore drum-loops, others a trap beat, and others rock-metal sounds
 - BNA - In the past x DR - Don't Forget (leitmotif)
 - BNA - Alan, phonk
 - Shakira & Bizarrap, DNB x Trap
