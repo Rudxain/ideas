@@ -1,0 +1,17 @@
+[package]
+name = "uniq_cont_bit"
+version = "0.1.0"
+edition = "2021"
+
+[lints.rust]
+unsafe = "forbid"
+
+[lints.clippy]
+#cargo = "warn"
+pedantic = "warn"
+nursery = "warn"
+infinite_loop = "forbid"
+unwrap_used = "deny"
+float_arithmetic = "forbid"
+float_cmp = "forbid"
+float_cmp_const = "forbid"

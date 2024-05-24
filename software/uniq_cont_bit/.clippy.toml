@@ -1,0 +1,12 @@
+single-char-binding-names-threshold = 3
+too-large-for-stack = 64
+max-include-file-size = 256
+array-size-threshold = 32
+enum-variant-size-threshold = 8
+trivial-copy-size-limit = 2
+too-many-arguments-threshold = 4
+literal-representation-threshold = 16
+cognitive-complexity-threshold = 12
+too-many-lines-threshold = 64
+type-complexity-threshold = 32
+max-trait-bounds = 1
