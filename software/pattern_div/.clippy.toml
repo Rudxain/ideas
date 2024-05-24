@@ -1,0 +1,13 @@
+single-char-binding-names-threshold = 3
+too-large-for-stack = 1024
+cognitive-complexity-threshold = 12
+array-size-threshold = 262144 #2^18
+enum-variant-size-threshold = 256
+too-many-arguments-threshold = 4
+literal-representation-threshold = 16
+too-many-lines-threshold = 64
+trivial-copy-size-limit = 2
+max-include-file-size = 262144
+type-complexity-threshold = 96
+max-trait-bounds = 1
+vec-box-size-threshold = 1024

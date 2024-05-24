@@ -1,0 +1,30 @@
+[package]
+name = "pattern_div"
+version = "0.1.0"
+edition = "2021"
+
+[lints.rust]
+unsafe_code = "forbid"
+future_incompatible = "deny"
+
+[lints.clippy]
+pedantic = "warn"
+unwrap_used = "warn"
+shadow_unrelated = "warn"
+string_to_string = "warn"
+decimal_literal_representation = "warn"
+unseparated_literal_suffix = "warn"
+empty_structs_with_brackets = "warn"
+format_push_string = "warn"
+cast_precision_loss = "deny"
+float_arithmetic = "forbid"
+excessive_precision = "deny"
+lossy_float_literal = "forbid"
+float_cmp = "forbid"
+float_cmp_const = "forbid"
+
+[profile.release]
+panic = "abort"
+strip = true
+lto = true
+codegen-units = 1
