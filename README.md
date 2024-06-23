@@ -1,8 +1,7 @@
 # 💡 ideas
-This hosts stuff that's unfinished or hasn't even started, for many reasons:
+This hosts stuff that's unfinished or hasn't even started. The main (not the only ones) reasons are:
 - laziness
 - lack of time
-- not enough knowledge
 
 Some of these are ✨dreams I wish came true, others are just crappy experiments/pet-projects, and others should be moved to my [blog](https://github.com/Rudxain/blog) or [wiki](https://github.com/Rudxain/RX-wiki).
 
