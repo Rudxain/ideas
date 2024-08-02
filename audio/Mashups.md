@@ -60,3 +60,4 @@
 - Zelda - Song of Storms x Harry Potter Theme
 - Panda Eyes - Colorblind x Hinkik - Time Leaper. The joke is that both were overused in Geometry Dash online
 - No More Puzzles (UTHH - No More Nuzzles, but for Papyrus)
+- Minion March x DR - Vs. Susie
