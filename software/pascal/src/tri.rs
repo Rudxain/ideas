@@ -1,6 +1,7 @@
 use std::ops::{Index, IndexMut};
 
-/// computes the (N+1)th triangular number
+/// computes the (N+1)th triangular number.
+/// if `r` was a "`usize_half`", then return would be `usize`
 #[must_use]
 const fn cell_count_from_rows(r: usize) -> Option<usize> {
 	// this feels weird
