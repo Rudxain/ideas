@@ -1,0 +1,12 @@
+[package]
+name = "trampoline"
+version = "0.1.0"
+edition = "2021"
+
+[lints.rust]
+unsafe_code = "deny"
+
+[lints.clippy]
+undocumented_unsafe_blocks = "forbid"
+pedantic = { level = "warn", priority = -1 }
+nursery = { level = "warn", priority = -2 }
