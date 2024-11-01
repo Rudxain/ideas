@@ -1,5 +1,5 @@
 # `evar`
-Executes variable names using very complex logic.
+Executes variable names using **very convoluted** logic.
 
 Context:
 - https://github.com/denysdovhan/wtfjs/issues/329#issuecomment-2413832248
@@ -8,16 +8,16 @@ Context:
 The basic idea is to use `eval` to execute arbitrary JS from the names of variables, by brute-force guessing the encoding of said names.
 
 The algorithm would `try` (with silent `catch`) to decode as (after removing the 1st `_`):
-- No encoding use name as itself
-- Hexadecimal
+- No encoding: use name as-is
+- hexadecimal
 - base64
 - base32
 - all of the above with different Caesar-Cipher keys
 - and more...
 
-The algorithm will also try to eval brainfuck code, possibly as a last resort.
+The algorithm will also try to **eval brainfuck** code, possibly as a last resort.
 
-I may even include my own [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) that interprets consecutive underscores between letters to correspond to different operators. Some sequences of underscores would also correspond to JSfuck characters.
+I may even include my own "esoteric" [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) that interprets consecutive underscores between letters to correspond to different operators. Some sequences of underscores would also correspond to JSfuck characters.
 
 ## Why
 
