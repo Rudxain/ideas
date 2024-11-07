@@ -30,23 +30,21 @@ const bf_to_js = b => {
 	])))
 
 	return `const c = String.fromCharCode
-		function* bfg(){
+	function* bfg(){
 		const m = new Uint8Array(3e4)
-		let p = 0;` +
-		b.replace(/./gs, c => map.get(c) || '') +
-		'};[...bfg()].join("")'
+		let p = 0;
+		${b.replace(/./gs, c => map.get(c) || '')}
+	};[...bfg()].join('')`
 }
 
 
 const bf = new Proxy({}, {
 	get(_, key) {
 		if (typeof key == 'symbol') return {}
-		if (key === "__global") return globalThis
+		if (key === '__global') return globalThis
 		return eval(bf_to_js(arab_to_bf(key.substring(1))))
 	},
-	has(_, __) {
-		return true
-	}
+	has(_, __) { return true }
 })
 
 with (bf) {
