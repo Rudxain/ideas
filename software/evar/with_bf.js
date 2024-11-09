@@ -32,7 +32,7 @@ they map to BF op-codes with the same numeric order.
 const arab_to_bf = d => d.replace(/./gs, c => arab_ops_to_bf[c] || '')
 
 /**
-Convert BrainFuck to its equivalent JS
+Transpile BrainFuck to its equivalent JS
 @param {string} b
 */
 const bf_to_js = b => `function* bfg(){
