@@ -18,8 +18,8 @@ const bf_ops_to_js = Object.freeze(new Map(/**@type {const}*/([
 	[']', '}']
 ])))
 
-const arab_ops_to_bf = /**@type {readonly ['+',',','-','.','<','>','[',']']}*/(
-	Object.freeze([...bf_ops_to_js.keys()])
+const arab_ops_to_bf = /**@type {'+,-.<>[]'}*/(
+	[...bf_ops_to_js.keys()].join('')
 )
 
 /**
