@@ -62,6 +62,7 @@ const fn is_prime(n: usize) -> bool {
 #[derive(Debug, Copy, Clone)]
 pub struct PrimeArr<T, const LEN: usize>([T; LEN]);
 impl<T, const LEN: usize> PrimeArr<T, LEN> {
+    #[must_use]
     pub const fn new(a: [T; LEN]) -> Self {
         const { assert!(is_prime(LEN)) };
         Self(a)
