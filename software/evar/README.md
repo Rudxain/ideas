@@ -23,4 +23,11 @@ I may even include my own "esoteric" [DSL](https://en.wikipedia.org/wiki/Domain-
 
 The goal is to make a nasty and insane DSL, that makes everyone be even more disgusted of JS!
 
-I should take inspiration from "Old PHP"
+> [!note]
+> This is somewhat unfair, as `with` is deprecated.
+> But it delivers the point that JS has too much technical-debt for the sake of backwards-compatibility.
+> 
+> I propose JS should be deprecated in favor of Wasm.
+> And Wasm should be capable of direct DOM access and standalone binaries
+
+Note to self: I should take inspiration from "Old PHP"
