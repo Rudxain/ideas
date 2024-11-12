@@ -1,4 +1,4 @@
-# \*.ttbc
+# `*.ttbc`
 
 ## Characteristics
 
