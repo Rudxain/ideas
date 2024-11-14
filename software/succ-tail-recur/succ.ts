@@ -1,13 +1,7 @@
 /**
-"Poor Man's `Maybe`"
-
-If `None` was encoded as `never[]`,
-it would create interoperability issues
-with `ReadonlyOption`.
-
-And mutating `None` is unsafe anyways.
+"Poor Man's mutable `Maybe`"
 */
-type Option<T> = [T] | readonly []
+type Option<T> = [T] | []
 /**
 "Poor Man's `Maybe`"
 */
