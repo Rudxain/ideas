@@ -2,4 +2,6 @@
 
 Rust implementation of the base-69 encoding
 
-[JS impl](https://github.com/pshihn/base69)
+See also:
+- [JS](https://github.com/pshihn/base69)
+- [Py](https://github.com/micfun123/Base69)
