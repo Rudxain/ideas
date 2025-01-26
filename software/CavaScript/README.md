@@ -14,4 +14,6 @@ This lang doesn't have an exception system (no `throw`, `try ... catch`, etc...)
 
 `char` is 16bits wide, as [JS is _mostly_ UTF-16](https://mathiasbynens.be/notes/javascript-encoding). `string` is just an alias of `char *`.
 
+`goto` is unconstrained, you can jump anywhere! But that may invoke UB in some situations.
+
 [`sort`ing](https://github.com/denysdovhan/wtfjs/blob/6f832d987472b30e1e3ede82de22e517af69e40b/README.md#default-behavior-arrayprototypesort) a list of strings (which is just a `string` pointer) actually **sorts by reference** (if you don't provide a callback pointer). Yes, that means the strings aren't sorted lexico-graphically, but rather by the numerical value of their pointers!
