@@ -14,9 +14,11 @@ Other features:
 - Statically-typed, partially strong, with basic type-inference
 - Only supports structural typing, like Go
 - Opt-in effects-system (like Koka and Eff)
+- **Functions don't exist**, only "subroutines" (I love that Ada makes a distinction between both)
 - It's honest about abstractions (intentionally "[leaky](https://en.wikipedia.org/wiki/Leaky_abstraction)")
-- Has built-in operators, because they are common among CPUs.
-- Only supports fixed-precision "generic" (arbitrary) binary integers and [IEEE-754](https://en.wikipedia.org/wiki/IEEE_754) floats
+- Only supports arbitrary-fixed-precision binary integers and [IEEE-754](https://en.wikipedia.org/wiki/IEEE_754) floats
+- Has built-in arithmetic and bit-wise operators for ints, because they are common among CPUs.
+- Its `std` provides many IEEE-754 functions (`sin`, `tan`, `log`, `sqrt`), as Zogah doesn't care about floats and Ramsy is too strict about determinism.
 - Default number-literal radix is decimal, but powers of 2 are supported.
 - It's safe by default (opt-in `unsafe`ty)
 - Has move semantics (because I love the [type-state](https://cliffle.com/blog/rust-typestate) pattern and [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization))
@@ -26,7 +28,7 @@ Other features:
 Ideally, this lang should have an opt-in stable ABI in the future. I say "opt-in" because you don't have to sacrifice optimizations for your entire program, only the parts that expose ABIs will be left intact.
 
 ## Zogah
-Its name is basically "Zoe"×"Logan"×"Hannah", and is somewhat inspired by Ada. Call me sexist/transphobic all you want, but I wanted this name to be "feminine" as it creates contrast with Crankett's "masculinity".
+Its name is basically "Zoe"×"Logan"×"Hannah", and is somewhat inspired by Ada. Call me sexist/transphobic all you want, but I wanted this name to be "feminine" as it creates contrast with Cranket's "masculinity".
 
 _Zogah is a dreamer_ (idealist, I guess), she isn't concerned with "real world" problems. As such, she is a big fan of [λC](https://en.wikipedia.org/wiki/Lambda_calculus).
 
@@ -40,14 +42,18 @@ This lang is both theoretically and practically TC, be careful!
 
 Its `std` lib forces you to handle **all** errors (no built-in panicking). However, you can opt-out of error-handling by calling the `diverge` fn, which isn't a compiler built-in, it's literally defined as an infinite recursive loop. The compiler is allowed (but not required) to optimize trivial infinite-loops as "panics".
 
+This lang is kinda "alien", as not all names are english. This takes some inspiration from APL and [conlangs](https://en.wikipedia.org/wiki/Constructed_language), without being "too extreme".
+
 Other features:
 - No operators, only functions
 - Identifiers can contain any char, except Unicode white-space. This allows fns to _look_ like operators.
 - `struct` and `enum` [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type) support
+- Pattern `match`ing and [logic](https://en.wikipedia.org/wiki/Logic_programming)
 - No primitive types, such as `string`s or `int`s. Its `std` provides lists of enums instead, with attached methods.
-- Literals are interpreted according to macros. The only supported radix for binary integers and floats is binary itself (for simplicity).
+- `bool`s are just `bit`s (`enum`s), and a `list` of them will be packed to its canonical size.
+- Literals are interpreted according to macros. The only supported radix for binary integers and fractions is binary itself (for simplicity).
 - `std` provides binary and ternary positional numerals, also [Church Numerals](https://en.wikipedia.org/wiki/Church_encoding)
-- All ints and floats have dynamic arbitrary precision, but you can easily define modular/wrapping ints, and specify the max float-precision for calculations.
+- All ints and fractions have dynamic arbitrary precision, but you can easily define modular/wrapping ints, and specify the max fraction-precision for calculations.
 - [TCO/TCE](https://en.wikipedia.org/wiki/Tail_call)
 - [NTS](https://en.wikipedia.org/wiki/Nominal_type_system)
 
