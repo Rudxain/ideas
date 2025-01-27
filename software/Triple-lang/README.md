@@ -11,6 +11,9 @@ This lang is akin to Rust and Zig, but has better syntax than both.
 - Statically-typed, partially strong, with basic type-inference
 - Only supports structural typing, like Go
 - It's honest about abstractions (intentionally "[leaky](https://en.wikipedia.org/wiki/Leaky_abstraction)")
+- Has built-in operators, because they are common among CPUs.
+- Only supports fixed-precision "generic" (arbitrary) binary integers and [IEEE-754](https://en.wikipedia.org/wiki/IEEE_754) floats
+- Default number-literal radix is decimal, but powers of 2 are supported.
 - It's safe by default (opt-in `unsafe`ty)
 - Has move semantics (because I love the [type-state](https://cliffle.com/blog/rust-typestate) pattern and [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization))
 - [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type)s
@@ -36,6 +39,9 @@ Other features:
 - Identifiers can contain any char, except Unicode whitespace. This allows fns to _look_ like operators.
 - `struct` and `enum` [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type) support
 - No primitive types, such as `string`s or `int`s. Its `std` provides lists of enums instead, with attached methods.
+- Literals are interpreted according to macros. The only supported radix for binary integers and floats is binary itself (for simplicity).
+- `std` provides binary and ternary positional numerals, also [Church Numerals](https://en.wikipedia.org/wiki/Church_encoding)
+- All ints and floats have dynamic arbitrary precision, but you can easily define modular/wrapping ints, and specify the max float-precision for calculations.
 - [TCO/TCE](https://en.wikipedia.org/wiki/Tail_call)
 - [NTS](https://en.wikipedia.org/wiki/Nominal_type_system)
 
@@ -55,3 +61,9 @@ Its purpose is to be a [formally-verifiable](https://en.wikipedia.org/wiki/Forma
 It's pure, but only because it has an effects-system (like Koka and Eff), with opt-in monads.
 
 This lang (and its `std`) does have a concept of panicking, but it has to be enabled explicitly for blocks of code
+
+The only built-in numbers are integers, because **floats are a plague that must be erradicated**. The default radix for literals is [unary](https://en.wikipedia.org/wiki/Unary_numeral_system), the only other supported radix is binary.
+
+There are no macros, but something like Zig's `comptime` could be included.
+
+This lang has ranged integers, like Ada
