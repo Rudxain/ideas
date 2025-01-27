@@ -21,6 +21,7 @@ Other features:
 - Its `std` provides many IEEE-754 functions (`sin`, `tan`, `log`, `sqrt`), as Zogah doesn't care about floats and Ramsy is too strict about determinism.
 - Default number-literal radix is decimal, but powers of 2 are supported.
 - It's safe by default (opt-in `unsafe`ty)
+- `unsafe` mode disables move semantics (the borrow checker is still active) so that you don't have to `mem::forget` or `ManuallyDrop`
 - Has move semantics (because I love the [type-state](https://cliffle.com/blog/rust-typestate) pattern and [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization))
 - [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type)s
 - [Practically TC](https://gavinhoward.com/2024/03/what-computers-cannot-do-the-consequences-of-turing-completeness), not theoretically
@@ -47,7 +48,7 @@ This lang is kinda "alien", as not all names are english. This takes some inspir
 Other features:
 - No operators, only functions
 - Identifiers can contain any char, except Unicode white-space. This allows fns to _look_ like operators.
-- `struct` and `enum` [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type) support
+- `struct` and `enum` [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type) support like Haskell and the ML-family
 - Pattern `match`ing and [logic](https://en.wikipedia.org/wiki/Logic_programming)
 - No primitive types, such as `string`s or `int`s. Its `std` provides lists of enums instead, with attached methods.
 - `bool`s are just `bit`s (`enum`s), and a `list` of them will be packed to its canonical size.
@@ -72,7 +73,7 @@ Ramsy wishes that systems weren't so complex and unreliable. As such they are "s
 
 Its purpose is to be a [formally-verifiable](https://en.wikipedia.org/wiki/Formal_verification) lang, as such it's **not TC at all**, it's more akin to a [PDA](https://en.wikipedia.org/wiki/Pushdown_automaton) or even [FSM](https://en.wikipedia.org/wiki/Finite-state_machine). It's **always safe**, so you can't have raw-pointers or FFI bindings.
 
-It's pure, but not internally (mutable variables exist). That is, there are no _observable_ side-effects, **not even memory allocation**.  If you want Ramsy to deal with the heap, you must pass references to it from Cranket. Think of it like `no-std` Rust.
+It's pure, but not internally (opt-in mutable variables exist). That is, there are no _observable_ side-effects, **not even memory allocation**.  If you want Ramsy to deal with the heap, you must pass references to it from Cranket. Think of it like `no-std` Rust.
 
 This lang (and its `std`) does have a concept of panicking, but it has to be enabled explicitly for blocks of code. This makes it suitable for robust kernel development.
 
