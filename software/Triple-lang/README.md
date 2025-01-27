@@ -53,7 +53,7 @@ Other features:
 
 ## Ramsy
 Name inspired by Gordon Ramsay's infamous line:
-> **"WHERE'S THE LAMB SAUCE?!**
+> **WHERE'S THE LAMB SAUCE?!**
 
 Pun explanation:
 - Lambda -> Lamb
