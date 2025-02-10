@@ -1,0 +1,6 @@
+[package]
+name = "n-1-fract"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
