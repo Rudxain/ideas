@@ -17,6 +17,14 @@ const fn is_odd(n: usize) -> bool {
     !is_even(n)
 }
 
+/*
+optional to-do:
+Test if `unsafe` `unchecked` prime generator that
+creates unchecked `Prime` wrapper struct
+is optimized in the same way as an identical fn that returns checked `Prime`s.
+
+`Prime` should be a wrapper that validates the input is prime
+*/
 #[must_use]
 const fn is_prime(n: usize) -> bool {
     if n == PRIME_EVEN {
@@ -90,12 +98,10 @@ mod tests {
 
     #[test]
     fn primality() {
-        assert!(
-            (*b"00110101000101000")
-                .into_iter()
-                .map(|b| digit_to_bool(b).unwrap_or_else(|| unreachable!()))
-                .enumerate()
-                .all(|(i, b)| is_prime(i) == b)
-        );
+        assert!((*b"00110101000101000")
+            .into_iter()
+            .map(|b| digit_to_bool(b).unwrap_or_else(|| unreachable!()))
+            .enumerate()
+            .all(|(i, b)| is_prime(i) == b));
     }
 }
