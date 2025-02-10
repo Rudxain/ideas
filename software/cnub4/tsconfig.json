@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		// Firefox ESR isn't 2024
+		"target": "ES2023",
+		"useDefineForClassFields": true,
+		"module": "ESNext",
+		"lib": ["ES2023", "DOM", "DOM.Iterable"],
+		"skipLibCheck": true,
+
+		"moduleResolution": "bundler",
+		"allowImportingTsExtensions": true,
+		"isolatedModules": true,
+		"moduleDetection": "force",
+		"noEmit": true,
+
+		"strict": true,
+		"noUnusedLocals": false,
+		// handled by ESL
+		"noUnusedParameters": false,
+		"noFallthroughCasesInSwitch": true,
+		"noUncheckedSideEffectImports": true,
+		"noUncheckedIndexedAccess": true
+	},
+	"include": ["src"]
+}
