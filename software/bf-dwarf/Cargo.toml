@@ -1,0 +1,22 @@
+[package]
+name = "bf-dwarf"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+bitvec = "1"
+
+[profile.release]
+opt-level = 3
+codegen-units = 1
+lto = true
+strip = true
+panic = "abort"
+
+[lints.rust]
+unsafe = "deny"
+
+[lints.clippy]
+undocumented_unsafe_blocks = "forbid"
+pedantic = { priority = -1, level = "warn" }
+nursery = { priority = -2, level = "warn" }
