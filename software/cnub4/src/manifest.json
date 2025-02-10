@@ -1,0 +1,19 @@
+{
+	// should it be MV3?
+	"manifest_version": 2,
+	"name": "cnub4",
+	"version": "0.0",
+	"incognito": "not_allowed",
+
+	"description": "Reminds you of users you've seen before",
+
+	//https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/icons#svg
+	//"icons": {"48": "i.svg"},
+
+	"content_scripts": [
+		{
+			"matches": ["*"],
+			"js": ["scraper.js"]
+		}
+	]
+}
