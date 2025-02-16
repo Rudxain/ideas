@@ -10,6 +10,6 @@ In the span of a day, the player can hear the protag singing in french, italian,
 
 The game must be designed in a way that encourages the player to not speedrun, but lets them be free of doing so.
 
-The game artstyle, narrative, lore, storyline, flavor text, and jokes, should all take inspiration from Undertale/Deltarune (and fangames such as UT Yellow and DeltaTraveler), Omori, Hollow Knight, etc...
+The game artstyle, narrative, lore, storyline, flavor text, and jokes, should all take inspiration from Undertale/Deltarune (and fangames such as UT Yellow and DeltaTraveler), OneShot, Omori, Hollow Knight, etc...
 
 *This idea came to me in a dream.* So I "copied" Toby Fox and decided to post this, lol
