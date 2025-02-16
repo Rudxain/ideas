@@ -3,6 +3,13 @@ A programming lang with split-personality syndrome!
 
 This is a general-purpose lang that's actually 3 specialized langs. It's not intended to be esoteric, though it may feel that way.
 
+## Naming
+I've noticed that the names "Cranket", "Cranklet", "Zogah", and "Ramsy", are already in use...
+
+Damn, I'll have to invent new names 🥲
+
+BTW, I'm looking for a collective name (a name to refer to all 3 langs as 1). "CZY" is bad.
+
 ## Cranket
 Its name is meant to communicate pragmatism and realism, while representing inanimate objects rather than self-aware beings.
 
