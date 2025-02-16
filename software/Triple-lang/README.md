@@ -13,6 +13,8 @@ BTW, I'm looking for a collective name (a name to refer to all 3 langs as 1). "C
 ## Cranket
 Its name is meant to communicate pragmatism and realism, while representing inanimate objects rather than self-aware beings.
 
+Think of it as "the lang of engineers, hackers, and glue-coders/scripters".
+
 This lang is akin to Rust and Zig, but has "better" syntax than both.
 
 This lang is intended to do "the dirty work", as its `std` lib solely contains APIs and types for dealing with the outside world. The only times you'll see a Cranket API doing "pure data processing" is because that processing is tied to some standard in the real world (like URI/URL parsing, or date-time localization and formatting). This implies Cranket doesn't have a `core` lib like Rust does. If you need to do data processing (string manipulation, math, etc...), you should use Zogah's or Ramsy's `std`-libs, not write your own "dirty" functions in Cranket.
@@ -39,6 +41,8 @@ Ideally, this lang should have an opt-in stable ABI in the future. I say "opt-in
 Its name is basically "Zoe"×"Logan"×"Hannah", and is somewhat inspired by Ada. Call me sexist/transphobic all you want, but I wanted this name to be "feminine" as it creates contrast with Cranket's "masculinity".
 
 _Zogah is a dreamer_ (idealist, I guess), she isn't concerned with "real world" problems. As such, she is a big fan of [λC](https://en.wikipedia.org/wiki/Lambda_calculus).
+
+Think of it as "the lang of mathematicians, artists, philosophers, logicians, and scientists".
 
 This is an **extremely-[pure](https://en.wikipedia.org/wiki/Purely_functional_programming)** functional lang, with aggressive auto-parallelization, like Bend and Kind. As such, there is no I-O. Think of it like a "Turing-Complete calculator". The only way to make use of it, is by explicitly passing values from the other langs, and evaluating Zogah's expressions.
 
@@ -78,7 +82,9 @@ Pun explanation:
 
 Ramsy wishes that systems weren't so complex and unreliable. As such they are "simple-minded".
 
-Its purpose is to be a [formally-verifiable](https://en.wikipedia.org/wiki/Formal_verification) lang, as such it's **not TC at all**, it's more akin to a [PDA](https://en.wikipedia.org/wiki/Pushdown_automaton) or even [FSM](https://en.wikipedia.org/wiki/Finite-state_machine). It's **always safe**, so you can't have raw-pointers or FFI bindings.
+This lang doesn't have a "target audience" or "personality", yet.
+
+Its purpose is to be a [total](https://en.wikipedia.org/wiki/Total_functional_programming) and [formally-verifiable](https://en.wikipedia.org/wiki/Formal_verification) lang, as such it's **not TC at all**, it's more akin to a [PDA](https://en.wikipedia.org/wiki/Pushdown_automaton) or even [FSM](https://en.wikipedia.org/wiki/Finite-state_machine). It's **always safe**, so you can't have raw-pointers or FFI bindings.
 
 It's pure, but not internally (opt-in mutable variables exist). That is, there are no _observable_ side-effects, **not even memory allocation**.  If you want Ramsy to deal with the heap, you must pass references to it from Cranket. Think of it like `no-std` Rust.
 
