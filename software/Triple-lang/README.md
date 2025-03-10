@@ -71,7 +71,9 @@ It has Lisp-like syntax (also [SOP](https://en.wikipedia.org/wiki/Stack-oriented
 
 This lang is both theoretically and practically TC, be careful!
 
-Its `std` lib forces you to handle **all** errors (no built-in panicking). However, you can opt-out of error-handling by calling the `diverge` fn, which isn't a compiler built-in, it's literally defined as an infinite recursive loop. The compiler is allowed (but not required) to optimize trivial infinite-loops as "panics".
+Its `std` lib forces you to handle **all** errors (no built-in panicking). However, you can opt-out of error-handling by calling the `diverge` fn, which isn't a compiler built-in, it's literally defined as an infinite recursive loop. The compiler is allowed (but not required) to optimize trivial infinite-loops as errors.
+
+Zogah should never panic on its own. That is, any memory-overflows and/or trivial-`diverge`s should evaluate to a `Result::err` on Cranket's and Ramsy's side. Zogah is lazily-evaluated by default, so unused Zogah expressions are removed from the binary, *even in debug mode*. However, if a Zogah expression is used, even if it's unreachable, it should still be included in debug mode.
 
 This lang is kinda "alien", as not all names are english. This takes some inspiration from APL and [conlangs](https://en.wikipedia.org/wiki/Constructed_language), without being "too extreme".
 
