@@ -64,11 +64,11 @@ _Zogah is a dreamer_ (idealist, I guess), she isn't concerned with "real world" 
 
 Think of it as "the lang of mathematicians, artists, philosophers, logicians, and scientists".
 
-This is an **extremely-[pure](https://en.wikipedia.org/wiki/Purely_functional_programming)** functional lang, with aggressive auto-parallelization, like Bend and Kind. As such, there is no I-O. Think of it like a "Turing-Complete calculator". The only way to make use of it, is by explicitly passing values from the other langs, and evaluating Zogah's expressions.
+This is an **extremely-[pure](https://en.wikipedia.org/wiki/Purely_functional_programming)** functional lang, with aggressive auto-parallelization, like [Bend](https://github.com/HigherOrderCO/Bend) and [Kind](https://github.com/HigherOrderCO/kind2). As such, there is no I-O. Think of it like a "Turing-Complete calculator". The only way to make use of it, is by explicitly passing values from the other langs, and evaluating Zogah's expressions.
 
 Being data-driven and "timeless", it doesn't have a concept of `async`. If you have any long-running computations, you should split them in multiple Zogah blocks evaluated by `async` (or explicit threads) Cranket code.
 
-Similarly to HVM, it doesn't need GC, but it doesn't have pointers or move-semantics.
+Similarly to [HVM](https://github.com/HigherOrderCO/hvm), it doesn't need GC, but it doesn't have pointers or move-semantics.
 
 It has Lisp-like syntax (also [SOP](https://en.wikipedia.org/wiki/Stack-oriented_programming)) and Haskell's strong type-system.
 
