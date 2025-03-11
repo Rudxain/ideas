@@ -7,7 +7,6 @@ ECMAScript string could have.
 
 The numeral is so big that it won't even fit
 in this observable universe.
-
 So you'll be better off just listing the exponents alone.
 */
 const MAX_UNIQ_STRINGS = (() => {
@@ -30,7 +29,7 @@ const MAX_UNIQ_STRINGS = (() => {
 /*
 It seems that a closed-form expression would be like:
 `(1 << (1 << (53 + 16))) / ((1 << 16) - 1)`
-The `53 + 16` might be off-by-one, lol.
+See also: https://math.stackexchange.com/a/971770
 
 I inferred this by observing that
 `2^n / M(m)` (a power of two divided by a Mersenne)
